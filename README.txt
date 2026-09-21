@@ -1,34 +1,6 @@
-Read Only by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Este es un trabajo practico para ESTANDARES DEL DESARROLLO WEB en la Tecnicatura en Software Libre de la UNL.
+La idea era crear un sitio web para un negocio de arreglo y mantenimiento de computadoras.
+La plantilla es READONLY de HTML5UP, licencia CC BY 3.0 html5up.net
+Para levantar en local es necesario clonar el repo y abrir index.html en el navegador.
 
-
-Just a super simple single-page responsive template built for personal sites and portfolios
-(although it'd definitely work for other stuff too). Includes a contact form, pre-styled
-elements, and Sass sources.
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+https://sachahai16.github.io/tp1/
